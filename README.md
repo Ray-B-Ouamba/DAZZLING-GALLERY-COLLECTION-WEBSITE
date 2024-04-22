@@ -1,7 +1,7 @@
 # DAZZLING-GALLERY-COLLECTION
 We have created a Dazzling Gallery Collection website for Olayemi Nakupenda, the artist, to provide a comprehensive platform to highlight, promote, and appreciate the beauty and diversity of his artwork. So,viewers all over the world can interact and get inspiration. 
 
-**PROJECT LINK:**  https://ray-b-ouamba.github.io/SWEETHEART-HAIR-SALON--FINAL-PROJECT/
+**PROJECT LINK:** https://ray-b-ouamba.github.io/DAZZLING-GALLERY-COLLECTION-WEBSITE/
 
 **TECH USED:** 
 * HTML,
